@@ -1,2 +1,3 @@
 # Visual-folder-media-drive-app
-This is an app that visually displays mp4 files on an app that are linked to a local network drive
+This app needs to be updated and clean up the code I am thinking of converting it to react native.
+the reason as I still want to develope app's but I want to focus on using javascript more then kotlin in the future.
